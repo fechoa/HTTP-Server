@@ -10,7 +10,9 @@ The program works with its own configuration files, work with which also impleme
 
 1. C++
 2. Make
-3. Http 1.1
+3. HTML
+4. CSS
+5. HTTP
 
 ## Allow methods
 
