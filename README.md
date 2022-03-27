@@ -37,4 +37,4 @@ The program works with its own configuration files, work with which also impleme
 
 ## Vizualization
 
-  <img src="./screen/server.gif" width="600" alt="server">
+  <img src="./screen/server.jpeg" width="600" alt="server">
